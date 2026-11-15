@@ -1,0 +1,16 @@
+node_modules/
+out/
+out-*/
+preview/
+*.tar
+*.tar.gz
+*.bundle
+*.jsonl
+*.db
+*.db-*
+.env
+.env.*
+*keypair*
+*apikey*
+transcripts/
+BUILD_RESULT.json
